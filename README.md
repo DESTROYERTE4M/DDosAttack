@@ -1,2 +1,2 @@
 # DDosAttack
-DDOS Attack
+python DDos.py
